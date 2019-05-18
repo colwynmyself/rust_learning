@@ -1,0 +1,9 @@
+[package]
+name = "rust_practice"
+version = "0.1.0"
+authors = ["Colwyn Fritze-Moor <colwyn@colwyn.me>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.6.5"
+sysinfo = "0.8.4"
